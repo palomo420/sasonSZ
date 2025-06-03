@@ -2,3 +2,17 @@
     width: 90px;
     align-items: start;
 }
+.boton-menu{
+    background-color: rgb(50, 236, 4);
+    color: brown;
+   
+}
+.boton-menu :hover{
+   background-color: aqua;
+}
+h2{
+    text-align: center;
+}
+.contenedoer{
+    text-align: center;
+}
